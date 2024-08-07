@@ -18,8 +18,8 @@ The repository includes several directories and files:
 
 ### Contributions 
 | Member    | Approx. Hours | Tasks |
-| -------- | ------- |------- |
-| Ananya  | -------  |------- |
-| Elaine | EDA Plots, XGBoost model, pipeline, README.md writeups |------- |
-| Mia    | -------  |------- |
-| Francisco  | -------  |------- |
+| -------- | ------- | ------- |
+| Ananya  | -------  | ------- |
+| Elaine | ------- | EDA Plots, XGBoost model, pipeline, README.md writeups |
+| Mia    | -------  | ------- |
+| Francisco  | -------  | ------- |
