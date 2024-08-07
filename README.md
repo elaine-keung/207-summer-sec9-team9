@@ -20,6 +20,6 @@ The repository includes several directories and files:
 | Member    | Approx. Hours | Tasks |
 | -------- | ------- |------- |
 | Ananya  | -------  |------- |
-| Elaine | -------   |------- |
+| Elaine | EDA Plots, XGBoost model, pipeline, README.md writeups |------- |
 | Mia    | -------  |------- |
 | Francisco  | -------  |------- |
