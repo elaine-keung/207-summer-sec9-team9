@@ -20,6 +20,6 @@ The repository includes several directories and files:
 | Member    | Approx. Hours | Tasks |
 | -------- | ------- | ------- |
 | Ananya  | -------  | ------- |
-| Elaine | ------- | EDA Plots, XGBoost model, pipeline, README.md writeups |
+| Elaine | ------- | slides, EDA, Clustering, XGBoost model, NN + XGBoost experimentation, pipeline, README.md writeups |
 | Mia    | -------  | EDA Plots, Decision Tree model, final presentation slides + speaking notes |
 | Francisco  | -------  | ------- |
