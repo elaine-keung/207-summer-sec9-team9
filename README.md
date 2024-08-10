@@ -21,5 +21,5 @@ The repository includes several directories and files:
 | -------- | ------- | ------- |
 | Ananya  | -------  | ------- |
 | Elaine | ------- | EDA Plots, XGBoost model, pipeline, README.md writeups |
-| Mia    | -------  | ------- |
+| Mia    | -------  | EDA Plots, Decision Tree model, final presentation slides + speaking notes |
 | Francisco  | -------  | ------- |
