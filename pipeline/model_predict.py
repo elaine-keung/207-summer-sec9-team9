@@ -109,7 +109,7 @@ def data_processing_abbr(df):
     # Drop any rows with null values before any processing
     subset.dropna(inplace=True)
     timestamp = datetime.now().strftime("%Y-%m-%d")
-    filename = f'steam_games_data_cleaned_{timestamp}.csv'
+    filename = f'steam_games_predictions_data_cleaned_{timestamp}.csv'
     print(f'Cleaning finished; saving copy to {filename}')
     subset.to_csv(filename)
     # Transform review percentage to binary classes
