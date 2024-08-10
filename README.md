@@ -14,7 +14,7 @@ The repository includes several directories and files:
 * ```extra_models/``` is a directory which includes notebooks for the other models that were attempted while looking for the best performing model.
 * ```pipeline/``` is a directory which includes ```preprocessing_model.py``` and ```model_predict.py```. These scripts enable the code from ```data_preprocessing.ipynb``` and ```model.ipynb``` to be run from the command line.
   - ```preprocessing_model.py``` takes one argument which is the path to a dataset (CSV). It runs the data cleaning steps as well as the model building steps, including shuffling/splitting. This script returns a ```.pkl``` file of the trained model, and saves a copy of the cleaned dataset before it has been split for model training.
-  - ```model_predict.py``` takes one argument, a path to a dataset (CSV), and imports the trained model to create predictions on that dataset. It cleans the data with the same steps to match the format of data which the model can take as an input, then creates predictions and returns them. If the imported dataset includes a way to validate the results, such as an included label column, it will calculate and print the accuracy. It will also return the performance plot as a saved .pdf image.
+  - ```model_predict.py``` takes one argument, a path to a dataset (CSV), and imports the trained model to create predictions on that dataset. It cleans the data with the same steps to match the format of data which the model can take as an input, then creates predictions and returns a PDF report with plots and a CSV containing the predictions.
 
 ### Contributions 
 | Member    | Approx. Hours | Tasks |
