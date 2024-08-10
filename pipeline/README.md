@@ -13,7 +13,7 @@ This will return:
 
 2. Predictions:
 
-Predictions are done with another dataset. The script will run the entire dataset through the model for predictions, it does not split the data. Ensure that ```steam_games_nn_model.pkl``` is located in the same directory.
+Predictions are done with another dataset, which must have the same columns as the original (e.g. more recently scraped data). The script will run the entire dataset through the model for predictions, it does not split the data. Ensure that ```steam_games_nn_model.pkl``` is located in the same directory.
 
 ```python model_predict.py path/to/file.csv```
 
