@@ -20,6 +20,6 @@ The repository includes several directories and files:
 | Member    | Approx. Hours | Tasks |
 | -------- | ------- | ------- |
 | Ananya  | 40 | Data cleaning & processing, EDA, Baseline model, Logistic Regression experiments, NN experiments, NN learned embeddings + XGboost experiments, slides |
-| Elaine | ------- | slides, EDA, Clustering, XGBoost model, NN + XGBoost experimentation, pipeline, README.md writeups |
+| Elaine | 40 | slides, EDA + initial cleaning, Clustering, XGBoost model + experiments, NN + XGBoost experimentation, pipeline, README.md writeups |
 | Mia    | -------  | EDA Plots, Decision Tree model, final presentation slides + speaking notes |
 | Francisco  | -------  | ------- |
