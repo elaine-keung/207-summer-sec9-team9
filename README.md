@@ -1,6 +1,6 @@
 # 207-summer-sec9-team9
 
-## Unlocking Game Success: Predicting Game Reviews from Key Attributes?
+## Unlocking Game Success: Predicting Game Reviews from Key Attributes
 
 ### Data
 For this project, we are using the [Steam Store Data from Kaggle](https://www.kaggle.com/datasets/amanbarthwal/steam-store-data/data), scraped May 2024. The data can be downloaded as a CSV file from Kaggle and directly input into the EDA/processing notebook (or script file, as a path). The input to the modeling notebooks is the CSV which is saved as the output from the data processing.
