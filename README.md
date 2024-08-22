@@ -25,3 +25,5 @@ The repository includes several directories and files:
 | Francisco  | -------  | initial model concepts, neural network alternative attempt |
 
 <sup>*Francisco's approx contributions added on his behalf (unresponsive)*</sup>
+
+## Adding Feedback!
